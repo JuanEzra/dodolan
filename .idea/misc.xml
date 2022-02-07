@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/ic_banner_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/ic_category_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/ic_favorit.xml" value="0.25462962962962965" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/ic_logo_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/ic_logododolan_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/ic_password.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/ic_phone.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/ic_search_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/ic_store.xml" value="0.25462962962962965" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/line.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/shape.xml" value="0.23703703703703705" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/shapeblack.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/drawable/shapek.xml" value="0.2712820512820513" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/activity_dashboard.xml" value="0.25271739130434784" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/activity_dashboard2.xml" value="0.25271739130434784" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/activity_menu2.xml" value="0.25905797101449274" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/activity_reg.xml" value="0.245018115942029" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/asdas.xml" value="0.3723958333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/content_menu.xml" value="0.259375" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/data_barang.xml" value="0.264" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/fragment_first.xml" value="0.259375" />
+        <entry key="..\:/KP-APP/app/src/main/res/layout/kategori.xml" value="0.25271739130434784" />
+        <entry key="..\:/KP-APP/app/src/main/res/mipmap-anydpi-v26/ic_banner.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/mipmap-anydpi-v26/ic_category.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml" value="0.2755208333333333" />
+        <entry key="..\:/KP-APP/app/src/main/res/mipmap-anydpi-v26/ic_logododolan.xml" value="0.2755208333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
